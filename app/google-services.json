@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385387230702",
+    "project_id": "hospitalnfc",
+    "storage_bucket": "hospitalnfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385387230702:android:4b97812dbb8c5ead100aff",
+        "android_client_info": {
+          "package_name": "tz.co.vanuserve.hospitalnfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385387230702-9c9286c7m5i29h9n3s7lbm25nkkef50l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tz.co.vanuserve.hospitalnfc",
+            "certificate_hash": "958036fdf0190faf59c955e1ba195bcd56c9491c"
+          }
+        },
+        {
+          "client_id": "385387230702-3rauudi4qsvs1vb6q88nb61l3dokkch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2TiQmJ_SFn2rzoJBqppNGs5cv4BXbMWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385387230702-3rauudi4qsvs1vb6q88nb61l3dokkch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
